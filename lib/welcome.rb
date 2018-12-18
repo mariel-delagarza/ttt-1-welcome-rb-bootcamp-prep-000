@@ -1,1 +1,3 @@
-print "Welcome to Tic Tac Toe!"
+def welcome
+  print "Welcome to Tic Tac Toe!"
+end 
